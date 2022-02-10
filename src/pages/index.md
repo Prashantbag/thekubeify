@@ -1,56 +1,42 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Kubeify
+image: https://www.solidbackgrounds.com/images/2560x1440/2560x1440-blue-solid-color-background.jpg
+heading: Kubeify
+subheading: The Kubernetes Solution
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Kubernetes Services Offered
+  description: |
+    Learn more about our complete set of offerings here
+description: Kubeify has partnerd with best in class container native tools and
+  cloud platforms
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: https://kubeify.com/images/home/architectural-consulting.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Architectural Consulting
+
+
+        Start with the groundwork needed for success with architectural consulting work for your new existing Kubernetes platform and its hosted apps.
+    - image: https://kubeify.com/images/home/implementation-and-onboarding.png
+      text: >-
+        Implementation and Onboarding
+
+        Speed time to market for production Kubernetes cluster with our implementation services. Get the best help you need to design and implement pure open source kubernetes in any environment.
+    - image: https://kubeify.com/images/home/custom-development.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Custom Development
+
+        Fill the gaps that will exist between a standard open source Kubernetes cluster and one designed for you with custom development from seasoned system software engineers. Kubeify's engineers can help you get the distributed environment you need.
+    - image: https://kubeify.com/images/home/integrations.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Integrations
+
+        Authentication, auditing, data services, and all your new and existing tools need to be integrated into the Kubernetes cluster. Kubeify has helped its Fortune 500 customers make the cloud native transformation for all their legacy systems.
+  heading: Cloud Partners
+  description: Kubeify has partnerd with best in class container native tools and
+    cloud platforms, It helps us to suggest and provide best services while
+    working on our customer's devops process.
 main:
   heading: Great coffee with no compromises
   description: >
